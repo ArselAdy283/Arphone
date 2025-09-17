@@ -2,19 +2,26 @@
 plugin untuk menambahkan fitur SMS seperti Bakwan Fight Back  
 
 ## Fitur:  
--Beli kontak (`/belikontak`)  
+-Beli kontak  
+`/belikontak`  
 untuk mendapatkan nomer hp  
--Tambah kontak (`/tambahkontak`)  
+-Tambah kontak  
+`/tambahkontak`  
 untuk menambahkan kontak player lain dengan nomer mereka  
--Lihat kontak (`/kontak`)  
+-Lihat kontak  
+`/kontak`  
 untuk melihat list kontak yang sudah disimpan  
--Mengubah nama kontak (`/editkontak`)  
+-Mengubah nama kontak  
+`/editkontak`  
 untuk mengubah nama kontak teman, saat menambahkan kontak harus memberi nama kontak  
--Kirim pesan (`/sms`)  
+-Kirim pesan  
+`/sms`  
 untuk mengirim pesan ke player lain  
--Inbox (`/inbox`)  
+-Inbox
+`/inbox`  
 untuk mengecek history pesan yang kita terima  
--Hapus inbox (`/clearinbox`)  
+-Hapus inbox  
+`/clearinbox`  
 untuk menghapus history pesan  
 
 ## Admin command:  
