@@ -1,7 +1,7 @@
 # Arphone
 plugin untuk menambahkan fitur SMS seperti Bakwan Fight Back  
 
-## Fitur:  
+## ✨Fitur:  
 `/belikontak`  
 untuk mendapatkan nomer hp  
 
@@ -23,6 +23,6 @@ untuk mengecek history pesan yang kita terima
 `/clearinbox`  
 untuk menghapus history pesan  
 
-## Admin command:  
+## 🔥Admin command:  
 `/ubahnomer <player> <nomer baru>`  
 usahakan nomernya diawali 08 dan dikuti 4 digit lainnya (contoh: 082839)
