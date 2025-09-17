@@ -1,4 +1,4 @@
-package org.arphone.Arphone;
+package org.arphone;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
