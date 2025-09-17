@@ -1,0 +1,38 @@
+name: Arphone
+version: '1.0-SNAPSHOT'
+main: org.arphone.Arphone
+api-version: '1.21'
+authors: [ArselAdy]
+description: Arphone Roleplay plugin
+commands:
+  belinomer:
+    description: Membeli nomor HP baru
+  tambahkontak:
+    description: Menambahkan kontak baru
+    usage: /tambahkontak <nama> <nomor>
+  sms:
+    description: Mengirim SMS ke kontak
+    usage: /sms <nama> <pesan>
+  kontak:
+    description: Melihat daftar kontak
+  hapuskontak:
+    description: Menghapus kontak
+    usage: /hapuskontak <nama>
+  editkontak:
+    description: Mengedit nama kontak
+    usage: /editkontak <nama lama> <nama baru>
+  ubahnomer:
+    description: Admin command untuk ubah nomor pemain
+    permission: smsaeerarp.admin
+    usage: /ubahnomer <player> <nomorBaru>
+  nomerku:
+    description: Melihat nomor HP milikmu
+  inbox:
+    description: Membuka SMS inbox
+  clearinbox:
+    description: Mengosongkan inbox SMS
+
+permissions:
+  smsaeerarp.admin:
+    description: Izinkan ubah nomor player
+    default: op
